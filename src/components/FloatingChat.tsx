@@ -11,7 +11,7 @@ export default function FloatingChat() {
         <div className="flex flex-col gap-2.5 mb-1 animate-in">
           {/* WhatsApp */}
           <a
-            href="https://wa.me/94773781918?text=Hi%20MSE%2C%20I%27d%20like%20to%20know%20more%20about%20your%20classes."
+            href="https://wa.me/94772279340?text=Hi%20MSE%2C%20I%27d%20like%20to%20know%20more%20about%20your%20classes."
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 bg-[#25D366] text-white pl-4 pr-5 py-2.5 rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all"
