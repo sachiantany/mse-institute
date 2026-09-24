@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import { Providers } from "@/lib/providers";
 import "./globals.css";
 
 const inter = Inter({
@@ -57,6 +58,7 @@ const jsonLd = {
   url: "https://mse-institute.vercel.app",
   logo: "https://mse-institute.vercel.app/images/logo.jpg",
   image: "https://mse-institute.vercel.app/images/building.jpg",
+  telephone: ["+94773781918", "+94772279340"],
   address: {
     "@type": "PostalAddress",
     streetAddress: "No 08, 15th Lane, Goods Shed Road",
@@ -73,14 +75,21 @@ const jsonLd = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en" className={`${inter.variable} h-full antialiased`}>
+    <html lang="en" data-theme="light" className={`${inter.variable} h-full antialiased`}>
       <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `try{var t=localStorage.getItem('mse-theme');if(t==='dark')document.documentElement.dataset.theme='dark'}catch(e){}`,
+          }}
+        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
       </head>
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col">
+        <Providers>{children}</Providers>
+      </body>
     </html>
   );
 }
