@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     "MSE Higher Educational Center",
     "tuition centre Puttalam",
   ],
-  metadataBase: new URL("https://mse-institute.vercel.app"),
+  metadataBase: new URL("https://mse-edu.vercel.app"),
   openGraph: {
     title: "MSE | Masters in Specialized Education",
     description:
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
       "Quality G.C.E. O/L and A/L tuition classes in Puttalam, Sri Lanka.",
     images: ["/images/logo.jpg"],
   },
-  alternates: { canonical: "https://mse-institute.vercel.app" },
+  alternates: { canonical: "https://mse-edu.vercel.app" },
 };
 
 const jsonLd = {
@@ -55,9 +55,9 @@ const jsonLd = {
   alternateName: "Masters in Specialized Education",
   description:
     "Quality G.C.E. O/L and A/L tuition classes in Puttalam, Sri Lanka.",
-  url: "https://mse-institute.vercel.app",
-  logo: "https://mse-institute.vercel.app/images/logo.jpg",
-  image: "https://mse-institute.vercel.app/images/building.jpg",
+  url: "https://mse-edu.vercel.app",
+  logo: "https://mse-edu.vercel.app/images/logo.jpg",
+  image: "https://mse-edu.vercel.app/images/building.jpg",
   telephone: ["+94773781918", "+94772279340"],
   address: {
     "@type": "PostalAddress",
