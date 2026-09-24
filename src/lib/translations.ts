@@ -73,8 +73,10 @@ export const translations: Record<Language, Record<string, string>> = {
 
     galleryLabel: "OUR SPACE",
     galleryTitle: "Where the learning happens.",
+    gallerySubtitle: "6 dedicated learning halls, each designed for focused study.",
+    galleryMainHall: "The main hall — our largest learning space",
     galleryBuilding: "Our centre in Puttalam",
-    galleryClassroom: "The main learning hall",
+    galleryClassroom: "One of our 6 learning halls",
 
     contactLabel: "FIND US",
     contactTitle: "Come see for yourself.",
@@ -169,8 +171,10 @@ export const translations: Record<Language, Record<string, string>> = {
 
     galleryLabel: "අපේ ඉඩම",
     galleryTitle: "ඉගෙනීම සිදුවන තැන.",
+    gallerySubtitle: "අවධානයෙන් යුතු අධ්‍යයනය සඳහා නිර්මාණය කරන ලද කැපවූ ඉගෙනුම් ශාලා 6ක්.",
+    galleryMainHall: "ප්‍රධාන ශාලාව — අපගේ විශාලතම ඉගෙනුම් අවකාශය",
     galleryBuilding: "පුත්තලමේ අපගේ මධ්‍යස්ථානය",
-    galleryClassroom: "ප්‍රධාන ඉගෙනුම් ශාලාව",
+    galleryClassroom: "අපගේ ඉගෙනුම් ශාලා 6න් එකක්",
 
     contactLabel: "අපව සොයන්න",
     contactTitle: "ඔබම බලන්න එන්න.",
@@ -265,8 +269,10 @@ export const translations: Record<Language, Record<string, string>> = {
 
     galleryLabel: "எங்கள் இடம்",
     galleryTitle: "கற்றல் நடக்கும் இடம்.",
+    gallerySubtitle: "கவனமான படிப்புக்காக வடிவமைக்கப்பட்ட 6 கற்றல் மண்டபங்கள்.",
+    galleryMainHall: "முக்கிய மண்டபம் — எங்களின் மிகப்பெரிய கற்றல் இடம்",
     galleryBuilding: "புத்தளத்தில் எங்கள் மையம்",
-    galleryClassroom: "முக்கிய கற்றல் மண்டபம்",
+    galleryClassroom: "எங்கள் 6 கற்றல் மண்டபங்களில் ஒன்று",
 
     contactLabel: "எங்களைக் கண்டறியுங்கள்",
     contactTitle: "நீங்களே வந்து பாருங்கள்.",

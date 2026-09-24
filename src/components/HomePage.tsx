@@ -309,6 +309,23 @@ export default function HomePage() {
               <h2 className="text-3xl md:text-[2.75rem] font-bold tracking-tight">
                 {t.galleryTitle}
               </h2>
+              <p className="mt-4 text-[var(--muted)] text-lg max-w-xl mx-auto">
+                {t.gallerySubtitle}
+              </p>
+            </div>
+          </ScrollReveal>
+
+          <ScrollReveal>
+            <div className="relative overflow-hidden rounded-2xl aspect-[21/9] mb-5">
+              <Image
+                src="/images/main-hall.jpg"
+                alt="MSE Main Hall"
+                fill
+                className="object-cover hover:scale-105 transition-transform duration-700"
+              />
+              <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/60 to-transparent p-6">
+                <p className="text-white text-sm font-medium">{t.galleryMainHall}</p>
+              </div>
             </div>
           </ScrollReveal>
 
