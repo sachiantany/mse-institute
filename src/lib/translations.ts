@@ -18,21 +18,21 @@ export const translations: Record<Language, Record<string, string>> = {
     heroTitle1: "Masters in",
     heroTitle2: "Specialized Education",
     heroSubtitle:
-      "Quality O/L and A/L classes for students in Puttalam. We focus on real understanding — not just exam cramming.",
+      "Quality O/L and A/L classes for students in Puttalam. We focus on real understanding,not just exam cramming.",
     heroEnroll: "Enroll Now",
     heroSubjects: "View Subjects",
 
     aboutLabel: "ABOUT US",
     aboutTitle: "Helping students in Puttalam build real understanding.",
     aboutP1:
-      "MSE Higher Educational Center is a tuition and learning centre dedicated to quality education. We cover a wide range of G.C.E. Ordinary Level and Advanced Level subjects, with a focus on making sure students actually understand what they're learning — not just memorise it.",
+      "MSE Higher Educational Center is a tuition and learning centre dedicated to quality education. We cover a wide range of G.C.E. Ordinary Level and Advanced Level subjects, with a focus on making sure students actually understand what they're learning,not just memorise it.",
     aboutP2:
       "Our teachers don't just prepare you for exams. They help you build the kind of knowledge and confidence that stays with you long after you leave the classroom.",
 
     subjectsLabel: "WHAT WE TEACH",
     subjectsTitle: "O/L and A/L subjects, covered.",
     subjectsSubtitle:
-      "From Mathematics to Commerce — all taught by subject specialists who know the national syllabus inside out.",
+      "From Mathematics to Commerce,all taught by subject specialists who know the national syllabus inside out.",
     olTitle: "G.C.E. Ordinary Level",
     alTitle: "G.C.E. Advanced Level",
 
@@ -74,7 +74,7 @@ export const translations: Record<Language, Record<string, string>> = {
     galleryLabel: "OUR SPACE",
     galleryTitle: "Where the learning happens.",
     gallerySubtitle: "6 dedicated learning halls, each designed for focused study.",
-    galleryMainHall: "The main hall — our largest learning space",
+    galleryMainHall: "The main hall,our largest learning space",
     galleryBuilding: "Our centre in Puttalam",
     galleryClassroom: "One of our 6 learning halls",
 
@@ -96,7 +96,7 @@ export const translations: Record<Language, Record<string, string>> = {
 
     ctaTitle: "Ready to do better in your exams?",
     ctaSubtitle:
-      "Talk to us — we'll help you figure out the right classes for you.",
+      "Talk to us,we'll help you figure out the right classes for you.",
     ctaContact: "Message Us",
     ctaVisit: "Visit Us",
 
@@ -113,8 +113,8 @@ export const translations: Record<Language, Record<string, string>> = {
     navContact: "සම්බන්ධ වන්න",
     navEnroll: "ලියාපදිංචි වන්න",
 
-    heroTitle1: "විශේෂිත අධ්‍යාපනයේ",
-    heroTitle2: "ප්‍රවීණයන්",
+    heroTitle1: "Masters in",
+    heroTitle2: "Specialized Education",
     heroSubtitle:
       "පුත්තලමේ O/L සහ A/L සිසුන් සඳහා ගුණාත්මක පන්ති. අපි අවධාරණය කරන්නේ සැබෑ අවබෝධය මිස විභාග කටපාඩම නොවේ.",
     heroEnroll: "ලියාපදිංචි වන්න",
@@ -125,12 +125,12 @@ export const translations: Record<Language, Record<string, string>> = {
     aboutP1:
       "MSE උසස් අධ්‍යාපන ආයතනය ගුණාත්මක අධ්‍යාපනයට කැපවූ ටියුෂන් සහ ඉගෙනුම් මධ්‍යස්ථානයකි. අපි G.C.E. සාමාන්‍ය පෙළ සහ උසස් පෙළ විෂයයන් පුළුල් පරාසයක ආවරණය කරමු.",
     aboutP2:
-      "අපේ ගුරුවරුන් ඔබව විභාගවලට පමණක් සූදානම් කරන්නේ නැහැ — ඔබ සමඟ රැඳෙන දැනුමක් සහ විශ්වාසයක් ගොඩනැංවීමට උදව් කරයි.",
+      "අපේ ගුරුවරුන් ඔබව විභාගවලට පමණක් සූදානම් කරන්නේ නැහැ,ඔබ සමඟ රැඳෙන දැනුමක් සහ විශ්වාසයක් ගොඩනැංවීමට උදව් කරයි.",
 
     subjectsLabel: "අපි ඉගැන්වන දේ",
     subjectsTitle: "O/L සහ A/L විෂයයන්.",
     subjectsSubtitle:
-      "ගණිතයේ සිට වාණිජ්‍ය දක්වා — ජාතික විෂය නිර්දේශය හොඳින් දන්නා විෂය විශේෂඥයින් විසින් ඉගැන්වීම.",
+      "ගණිතයේ සිට වාණිජ්‍ය දක්වා,ජාතික විෂය නිර්දේශය හොඳින් දන්නා විෂය විශේෂඥයින් විසින් ඉගැන්වීම.",
     olTitle: "G.C.E. සාමාන්‍ය පෙළ",
     alTitle: "G.C.E. උසස් පෙළ",
 
@@ -172,7 +172,7 @@ export const translations: Record<Language, Record<string, string>> = {
     galleryLabel: "අපේ ඉඩම",
     galleryTitle: "ඉගෙනීම සිදුවන තැන.",
     gallerySubtitle: "අවධානයෙන් යුතු අධ්‍යයනය සඳහා නිර්මාණය කරන ලද කැපවූ ඉගෙනුම් ශාලා 6ක්.",
-    galleryMainHall: "ප්‍රධාන ශාලාව — අපගේ විශාලතම ඉගෙනුම් අවකාශය",
+    galleryMainHall: "ප්‍රධාන ශාලාව,අපගේ විශාලතම ඉගෙනුම් අවකාශය",
     galleryBuilding: "පුත්තලමේ අපගේ මධ්‍යස්ථානය",
     galleryClassroom: "අපගේ ඉගෙනුම් ශාලා 6න් එකක්",
 
@@ -193,11 +193,11 @@ export const translations: Record<Language, Record<string, string>> = {
     openMaps: "Google Maps හි බලන්න",
 
     ctaTitle: "ඔබේ විභාගවලදී වඩා හොඳින් කිරීමට සූදානම්ද?",
-    ctaSubtitle: "අප සමඟ කතා කරන්න — නිවැරදි පන්ති තෝරා ගැනීමට උදව් කරමු.",
+    ctaSubtitle: "අප සමඟ කතා කරන්න,නිවැරදි පන්ති තෝරා ගැනීමට උදව් කරමු.",
     ctaContact: "පණිවිඩයක් යවන්න",
     ctaVisit: "පැමිණෙන්න",
 
-    footerName: "MSE උසස් අධ්‍යාපන ආයතනය",
+    footerName: "MSE Higher Educational Center",
     footerNameLocal: "උසස් අධ්‍යාපන ආයතනය",
     footerRights: "සියලු හිමිකම් ඇවිරිණි.",
   },
@@ -210,10 +210,10 @@ export const translations: Record<Language, Record<string, string>> = {
     navContact: "தொடர்பு",
     navEnroll: "பதிவு செய்க",
 
-    heroTitle1: "சிறப்புக் கல்வியில்",
-    heroTitle2: "திறமையாளர்கள்",
+    heroTitle1: "Masters in",
+    heroTitle2: "Specialized Education",
     heroSubtitle:
-      "புத்தளத்தில் O/L மற்றும் A/L மாணவர்களுக்கான தரமான வகுப்புகள். தேர்வுக்கு மட்டும் அல்ல — உண்மையான புரிதலுக்கு.",
+      "புத்தளத்தில் O/L மற்றும் A/L மாணவர்களுக்கான தரமான வகுப்புகள். தேர்வுக்கு மட்டும் அல்ல,உண்மையான புரிதலுக்கு.",
     heroEnroll: "பதிவு செய்க",
     heroSubjects: "பாடங்களைக் காண்க",
 
@@ -223,12 +223,12 @@ export const translations: Record<Language, Record<string, string>> = {
     aboutP1:
       "MSE உயர்கல்வி நிலையம் தரமான கல்விக்கு அர்ப்பணிக்கப்பட்ட ஒரு கற்றல் மையமாகும். G.C.E. சாதாரண தர மற்றும் உயர் தர பாடங்களை பரந்த அளவில் கற்பிக்கிறோம்.",
     aboutP2:
-      "எங்கள் ஆசிரியர்கள் தேர்வுகளுக்கு மட்டும் தயார் செய்வதில்லை — உங்களுடன் நிலைத்திருக்கும் அறிவையும் நம்பிக்கையையும் வளர்க்க உதவுகிறார்கள்.",
+      "எங்கள் ஆசிரியர்கள் தேர்வுகளுக்கு மட்டும் தயார் செய்வதில்லை,உங்களுடன் நிலைத்திருக்கும் அறிவையும் நம்பிக்கையையும் வளர்க்க உதவுகிறார்கள்.",
 
     subjectsLabel: "நாங்கள் கற்பிப்பவை",
     subjectsTitle: "O/L மற்றும் A/L பாடங்கள்.",
     subjectsSubtitle:
-      "கணிதம் முதல் வணிகவியல் வரை — தேசிய பாடத்திட்டத்தை நன்கு அறிந்த பாட நிபுணர்களால் கற்பிக்கப்படுகிறது.",
+      "கணிதம் முதல் வணிகவியல் வரை,தேசிய பாடத்திட்டத்தை நன்கு அறிந்த பாட நிபுணர்களால் கற்பிக்கப்படுகிறது.",
     olTitle: "G.C.E. சாதாரண தரம்",
     alTitle: "G.C.E. உயர் தரம்",
 
@@ -270,7 +270,7 @@ export const translations: Record<Language, Record<string, string>> = {
     galleryLabel: "எங்கள் இடம்",
     galleryTitle: "கற்றல் நடக்கும் இடம்.",
     gallerySubtitle: "கவனமான படிப்புக்காக வடிவமைக்கப்பட்ட 6 கற்றல் மண்டபங்கள்.",
-    galleryMainHall: "முக்கிய மண்டபம் — எங்களின் மிகப்பெரிய கற்றல் இடம்",
+    galleryMainHall: "முக்கிய மண்டபம்,எங்களின் மிகப்பெரிய கற்றல் இடம்",
     galleryBuilding: "புத்தளத்தில் எங்கள் மையம்",
     galleryClassroom: "எங்கள் 6 கற்றல் மண்டபங்களில் ஒன்று",
 
@@ -292,11 +292,11 @@ export const translations: Record<Language, Record<string, string>> = {
 
     ctaTitle: "உங்கள் தேர்வுகளில் சிறப்பாக செய்ய தயாரா?",
     ctaSubtitle:
-      "எங்களிடம் பேசுங்கள் — சரியான வகுப்புகளை தேர்வு செய்ய உதவுவோம்.",
+      "எங்களிடம் பேசுங்கள்,சரியான வகுப்புகளை தேர்வு செய்ய உதவுவோம்.",
     ctaContact: "செய்தி அனுப்புக",
     ctaVisit: "வருகை தாருங்கள்",
 
-    footerName: "MSE உயர்கல்வி நிலையம்",
+    footerName: "MSE Higher Educational Center",
     footerNameLocal: "உயர்கல்வி நிலையம்",
     footerRights: "அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.",
   },
